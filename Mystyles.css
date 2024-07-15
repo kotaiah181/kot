@@ -1,0 +1,28 @@
+body,h1,h2,p,ul,li{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:Arial,sans-serif;
+    background-color: #0ec946;
+
+}
+header{
+    background-color: #9ec90e;
+    color:#e70e0e;
+    padding:20px;
+}
+header h1{
+    margin: 0;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color :#fff
+     text decoration
+}
